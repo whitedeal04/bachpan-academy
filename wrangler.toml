@@ -5,4 +5,4 @@ compatibility_date = "2026-10-10"
 [[d1_databases]]
 binding = "DB"
 database_name = "bachpanacademy-db"
-database_id = "REPLACE_WITH_YOUR_D1_DATABASE_ID"
+database_id = "a15560b2-f2dc-4d4e-b59f-2335bce314f0"
